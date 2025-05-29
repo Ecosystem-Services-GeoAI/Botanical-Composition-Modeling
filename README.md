@@ -1,4 +1,4 @@
-# Botanical_Composition_Modeling
+# Botanical-Composition-Modeling
 This is a repository for the botanical composition model developed in the paper "[Estimating the Botanical Composition in Grass-Legume Mixed Pastures Using Aerial Multispectral Imagery and Deep Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5122337)".
 
 If you use the code, please cite our paper as follows:
