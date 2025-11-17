@@ -1,0 +1,2 @@
+Dataset,Best_CV_F1_weighted,Overall_Accuracy,Model_File
+split_grid_best_cnn_fixed_cz,0.8948867214939769,0.8738738738738738,split_grid_best_cnn_fixed_cz_best_model.joblib

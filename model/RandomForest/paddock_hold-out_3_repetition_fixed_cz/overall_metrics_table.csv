@@ -1,0 +1,6 @@
+,grass,legume,Average
+Precision,76.79,95.18,85.99
+Sensitivity,97.31,60.63,78.97
+Specificity,60.63,97.31,78.97
+F1-score,85.83,73.81,79.82
+Overall Accuracy,,,81.68

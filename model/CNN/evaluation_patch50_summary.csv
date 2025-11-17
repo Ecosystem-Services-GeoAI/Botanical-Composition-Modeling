@@ -1,0 +1,91 @@
+Split,Fold,Class,Precision,Recall,Specificity,F1 Score
+split_pad3,1,Grass,0.8714,0.9839,0.8163,0.9242
+split_pad3,1,Legume,0.9756,0.8163,0.9839,0.8889
+split_pad3,1,Average,0.9235,0.9001,0.9001,0.9066
+split_pad3,1,Grass (paddock),0.7187,1.0000,0.6400,0.8364
+split_pad3,1,Legume (paddock),1.0000,0.6400,1.0000,0.7805
+split_pad3,1,Average (paddock),0.8594,0.8200,0.8200,0.8084
+split_pad3,2,Grass,0.8451,0.9677,0.7755,0.9023
+split_pad3,2,Legume,0.9500,0.7755,0.9677,0.8539
+split_pad3,2,Average,0.8975,0.8716,0.8716,0.8781
+split_pad3,2,Grass (paddock),0.6667,0.9565,0.5600,0.7857
+split_pad3,2,Legume (paddock),0.9333,0.5600,0.9565,0.7000
+split_pad3,2,Average (paddock),0.8000,0.7583,0.7583,0.7429
+split_pad3,3,Grass,0.8000,0.9677,0.6939,0.8759
+split_pad3,3,Legume,0.9444,0.6939,0.9677,0.8000
+split_pad3,3,Average,0.8722,0.8308,0.8308,0.8380
+split_pad3,3,Grass (paddock),0.6389,1.0000,0.4800,0.7797
+split_pad3,3,Legume (paddock),1.0000,0.4800,1.0000,0.6486
+split_pad3,3,Average (paddock),0.8194,0.7400,0.7400,0.7142
+split_pad3,4,Grass,0.8000,0.9677,0.6939,0.8759
+split_pad3,4,Legume,0.9444,0.6939,0.9677,0.8000
+split_pad3,4,Average,0.8722,0.8308,0.8308,0.8380
+split_pad3,4,Grass (paddock),0.6389,1.0000,0.4800,0.7797
+split_pad3,4,Legume (paddock),1.0000,0.4800,1.0000,0.6486
+split_pad3,4,Average (paddock),0.8194,0.7400,0.7400,0.7142
+split_pad3,5,Grass,0.8219,0.9677,0.7347,0.8889
+split_pad3,5,Legume,0.9474,0.7347,0.9677,0.8276
+split_pad3,5,Average,0.8846,0.8512,0.8512,0.8582
+split_pad3,5,Grass (paddock),0.6765,1.0000,0.5600,0.8070
+split_pad3,5,Legume (paddock),1.0000,0.5600,1.0000,0.7179
+split_pad3,5,Average (paddock),0.8382,0.7800,0.7800,0.7625
+split_pad5,1,Grass,0.9194,0.9194,0.8980,0.9194
+split_pad5,1,Legume,0.8980,0.8980,0.9194,0.8980
+split_pad5,1,Average,0.9087,0.9087,0.9087,0.9087
+split_pad5,1,Grass (paddock),0.8800,0.9167,0.8750,0.8980
+split_pad5,1,Legume (paddock),0.9130,0.8750,0.9167,0.8936
+split_pad5,1,Average (paddock),0.8965,0.8958,0.8958,0.8958
+split_pad5,2,Grass,0.8906,0.9194,0.8571,0.9048
+split_pad5,2,Legume,0.8936,0.8571,0.9194,0.8750
+split_pad5,2,Average,0.8921,0.8882,0.8882,0.8899
+split_pad5,2,Grass (paddock),0.8800,0.9167,0.8750,0.8980
+split_pad5,2,Legume (paddock),0.9130,0.8750,0.9167,0.8936
+split_pad5,2,Average (paddock),0.8965,0.8958,0.8958,0.8958
+split_pad5,3,Grass,0.8485,0.9032,0.7959,0.8750
+split_pad5,3,Legume,0.8667,0.7959,0.9032,0.8298
+split_pad5,3,Average,0.8576,0.8496,0.8496,0.8524
+split_pad5,3,Grass (paddock),0.7857,0.9167,0.7500,0.8462
+split_pad5,3,Legume (paddock),0.9000,0.7500,0.9167,0.8182
+split_pad5,3,Average (paddock),0.8429,0.8333,0.8333,0.8322
+split_pad5,4,Grass,0.8143,0.9194,0.7347,0.8636
+split_pad5,4,Legume,0.8780,0.7347,0.9194,0.8000
+split_pad5,4,Average,0.8462,0.8270,0.8270,0.8318
+split_pad5,4,Grass (paddock),0.7333,0.9167,0.6667,0.8148
+split_pad5,4,Legume (paddock),0.8889,0.6667,0.9167,0.7619
+split_pad5,4,Average (paddock),0.8111,0.7917,0.7917,0.7884
+split_pad5,5,Grass,0.8286,0.9355,0.7551,0.8788
+split_pad5,5,Legume,0.9024,0.7551,0.9355,0.8222
+split_pad5,5,Average,0.8655,0.8453,0.8453,0.8505
+split_pad5,5,Grass (paddock),0.7586,0.9167,0.7083,0.8302
+split_pad5,5,Legume (paddock),0.8947,0.7083,0.9167,0.7907
+split_pad5,5,Average (paddock),0.8267,0.8125,0.8125,0.8104
+split_pad9,1,Grass,0.9118,0.9394,0.8667,0.9254
+split_pad9,1,Legume,0.9070,0.8667,0.9394,0.8864
+split_pad9,1,Average,0.9094,0.9030,0.9030,0.9059
+split_pad9,1,Grass (paddock),0.7857,0.9565,0.7391,0.8627
+split_pad9,1,Legume (paddock),0.9444,0.7391,0.9565,0.8293
+split_pad9,1,Average (paddock),0.8651,0.8478,0.8478,0.8460
+split_pad9,2,Grass,0.9242,0.9242,0.8889,0.9242
+split_pad9,2,Legume,0.8889,0.8889,0.9242,0.8889
+split_pad9,2,Average,0.9066,0.9066,0.9066,0.9066
+split_pad9,2,Grass (paddock),0.8077,0.9130,0.7826,0.8571
+split_pad9,2,Legume (paddock),0.9000,0.7826,0.9130,0.8372
+split_pad9,2,Average (paddock),0.8538,0.8478,0.8478,0.8472
+split_pad9,3,Grass,0.8676,0.8939,0.8000,0.8806
+split_pad9,3,Legume,0.8372,0.8000,0.8939,0.8182
+split_pad9,3,Average,0.8524,0.8470,0.8470,0.8494
+split_pad9,3,Grass (paddock),0.7000,0.9130,0.6087,0.7925
+split_pad9,3,Legume (paddock),0.8750,0.6087,0.9130,0.7179
+split_pad9,3,Average (paddock),0.7875,0.7609,0.7609,0.7552
+split_pad9,4,Grass,0.9000,0.9545,0.8444,0.9265
+split_pad9,4,Legume,0.9268,0.8444,0.9545,0.8837
+split_pad9,4,Average,0.9134,0.8995,0.8995,0.9051
+split_pad9,4,Grass (paddock),0.7586,0.9565,0.6957,0.8462
+split_pad9,4,Legume (paddock),0.9412,0.6957,0.9565,0.8000
+split_pad9,4,Average (paddock),0.8499,0.8261,0.8261,0.8231
+split_pad9,5,Grass,0.9242,0.9242,0.8889,0.9242
+split_pad9,5,Legume,0.8889,0.8889,0.9242,0.8889
+split_pad9,5,Average,0.9066,0.9066,0.9066,0.9066
+split_pad9,5,Grass (paddock),0.8077,0.9130,0.7826,0.8571
+split_pad9,5,Legume (paddock),0.9000,0.7826,0.9130,0.8372
+split_pad9,5,Average (paddock),0.8538,0.8478,0.8478,0.8472
